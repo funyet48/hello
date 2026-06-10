@@ -14,8 +14,19 @@ npm run start
 ```console
 $ npm run start
 
-> @funyet48/hello@1.0.0 start
+> @funyet48/hello@1.1.0 start
 > node src/index.js
 
-Hello!
+ ______
+< Hi!! >
+ ------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
+
+## 変更履歴
+
+[cowsay](https://www.npmjs.com/package/cowsay) を使って牛が話すようにしました。

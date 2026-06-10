@@ -1,6 +1,6 @@
 {
 	"name": "@funyet48/hello",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "\"fork + upstream 追跡\" の練習用の upstream 側。内容は Node と npm で hello world の予定",
 	"keywords": [],
 	"license": "MIT",
