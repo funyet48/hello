@@ -16,5 +16,8 @@
 		"format": "oxfmt",
 		"lint": "oxlint",
 		"check": "oxfmt && oxlint --fix"
+	},
+	"dependencies": {
+		"cowsay": "^1.6.0"
 	}
 }
