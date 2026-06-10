@@ -1,0 +1,17 @@
+{
+	"name": "@funyet48/hello",
+	"version": "1.0.0",
+	"description": "\"fork + upstream 追跡\" の練習用の upstream 側。内容は Node と npm で hello world の予定",
+	"keywords": [],
+	"license": "MIT",
+	"author": "241050607+funyet48@users.noreply.github.com",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:funyet48/hello.git"
+	},
+	"type": "module",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node src/index.js"
+	}
+}
